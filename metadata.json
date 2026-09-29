@@ -1,0 +1,6 @@
+{
+  "name": "Sharnbasva BCA Admission Portal",
+  "description": "Full-stack admission portal for Sharnbasva University BCA Co-Education department. Built with React, Tailwind, and a MongoDB backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

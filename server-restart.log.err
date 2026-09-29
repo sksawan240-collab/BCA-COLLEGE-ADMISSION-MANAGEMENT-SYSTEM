@@ -1,0 +1,533 @@
+API key should be set when using the Gemini API.
+API key should be set when using the Gemini API.
+[2m10:37:51 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\SAWAN HALLI\Desktop\WEBSITE\src\pages\admin\Users.tsx: Unexpected token (361:7)
+
+[0m [90m 359 |[31m   )[33m;[31m
+ [90m 360 |[31m }
+[31m[1m>[22m[31m[90m 361 |[31m       [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m     |[31m        [31m[1m^[22m[31m
+ [90m 362 |[31m     [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 363 |[31m   )[33m;[31m
+ [90m 364 |[31m }[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/SAWAN HALLI/Desktop/WEBSITE/src/pages/admin/Users.tsx[39m:361:7
+      at toParseError (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parse-error.ts:96:45)
+      at TypeScriptParserMixin.raise (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\tokenizer\index.ts:1504:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\tokenizer\index.ts:1544:16)
+      at TypeScriptParserMixin.jsxParseIdentifier (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\jsx\index.ts:278:14)
+      at TypeScriptParserMixin.jsxParseNamespacedName (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\jsx\index.ts:288:25)
+      at TypeScriptParserMixin.jsxParseElementName (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\jsx\index.ts:306:14)
+      at TypeScriptParserMixin.jsxParseOpeningElementAt (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\jsx\index.ts:429:24)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\jsx\index.ts:470:35)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\jsx\index.ts:559:19)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\jsx\index.ts:581:21)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:742:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:721:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:683:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\typescript\index.ts:3893:20)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:417:14)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:429:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:384:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:301:21)
+      at fn (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\typescript\index.ts:3745:23)
+      at TypeScriptParserMixin.tryParse (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\util.ts:174:20)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\typescript\index.ts:3744:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:226:23)
+      at callback (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:217:39)
+      at TypeScriptParserMixin.allowInAnd (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:3222:16)
+      at TypeScriptParserMixin.parseExpression (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:217:17)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\statement.ts:688:23)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\typescript\index.ts:3220:20)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\statement.ts:482:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\statement.ts:419:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\statement.ts:1443:16)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\statement.ts:1417:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\statement.ts:229:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\statement.ts:203:25)
+      at TypeScriptParserMixin.parse (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\index.ts:83:25)
+      at TypeScriptParserMixin.parse (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\typescript\index.ts:4354:20)
+      at parse (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\index.ts:86:38)
+      at parser (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\core\src\parser\index.ts:29:19)
+      at parser.next (<anonymous>)
+      at normalizeFile (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\core\src\transformation\normalize-file.ts:49:24)
+      at normalizeFile.next (<anonymous>)
+      at run (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\core\src\transformation\index.ts:41:36)
+      at run.next (<anonymous>)
+      at transform (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\core\src\transform.ts:29:20)
+      at transform.next (<anonymous>)
+      at step (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\gensync\index.js:261:32)
+      at C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\gensync\index.js:223:11)
+      at C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\gensync\index.js:189:28
+      at <anonymous> (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\core\src\gensync-utils\async.ts:90:7)
+      at C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\gensync\index.js:113:33
+[2m10:37:53 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: C:\Users\SAWAN HALLI\Desktop\WEBSITE\src\pages\admin\Users.tsx: Unexpected token (361:7)
+
+[0m [90m 359 |[39m   )[33m;[39m
+ [90m 360 |[39m }
+[31m[1m>[22m[39m[90m 361 |[39m       [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m     |[39m        [31m[1m^[22m[39m
+ [90m 362 |[39m     [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m 363 |[39m   )[33m;[39m
+ [90m 364 |[39m }[0m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/SAWAN HALLI/Desktop/WEBSITE/src/pages/admin/Users.tsx[39m:361:7
+[2m10:37:53 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\SAWAN HALLI\Desktop\WEBSITE\src\pages\admin\Users.tsx: Unexpected token (361:7)
+
+[0m [90m 359 |[31m   )[33m;[31m
+ [90m 360 |[31m }
+[31m[1m>[22m[31m[90m 361 |[31m       [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m     |[31m        [31m[1m^[22m[31m
+ [90m 362 |[31m     [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 363 |[31m   )[33m;[31m
+ [90m 364 |[31m }[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/SAWAN HALLI/Desktop/WEBSITE/src/pages/admin/Users.tsx[39m:361:7
+      at toParseError (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parse-error.ts:96:45)
+      at TypeScriptParserMixin.raise (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\tokenizer\index.ts:1504:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\tokenizer\index.ts:1544:16)
+      at TypeScriptParserMixin.jsxParseIdentifier (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\jsx\index.ts:278:14)
+      at TypeScriptParserMixin.jsxParseNamespacedName (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\jsx\index.ts:288:25)
+      at TypeScriptParserMixin.jsxParseElementName (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\jsx\index.ts:306:14)
+      at TypeScriptParserMixin.jsxParseOpeningElementAt (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\jsx\index.ts:429:24)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\jsx\index.ts:470:35)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\jsx\index.ts:559:19)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\jsx\index.ts:581:21)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:742:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:721:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:683:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\typescript\index.ts:3893:20)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:417:14)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:429:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:384:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:301:21)
+      at fn (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\typescript\index.ts:3745:23)
+      at TypeScriptParserMixin.tryParse (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\util.ts:174:20)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\typescript\index.ts:3744:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:226:23)
+      at callback (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:217:39)
+      at TypeScriptParserMixin.allowInAnd (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:3222:16)
+      at TypeScriptParserMixin.parseExpression (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\expression.ts:217:17)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\statement.ts:688:23)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\typescript\index.ts:3220:20)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\statement.ts:482:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\statement.ts:419:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\statement.ts:1443:16)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\statement.ts:1417:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\statement.ts:229:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\statement.ts:203:25)
+      at TypeScriptParserMixin.parse (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\parser\index.ts:83:25)
+      at TypeScriptParserMixin.parse (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\plugins\typescript\index.ts:4354:20)
+      at parse (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\parser\src\index.ts:86:38)
+      at parser (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\core\src\parser\index.ts:29:19)
+      at parser.next (<anonymous>)
+      at normalizeFile (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\core\src\transformation\normalize-file.ts:49:24)
+      at normalizeFile.next (<anonymous>)
+      at run (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\core\src\transformation\index.ts:41:36)
+      at run.next (<anonymous>)
+      at transform (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\core\src\transform.ts:29:20)
+      at transform.next (<anonymous>)
+      at step (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\gensync\index.js:261:32)
+      at C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\gensync\index.js:223:11)
+      at C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\gensync\index.js:189:28
+      at <anonymous> (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@babel\core\src\gensync-utils\async.ts:90:7)
+      at C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\gensync\index.js:113:33
+(node:17924) [MONGOOSE] Warning: mongoose: the `new` option for `findOneAndUpdate()` and `findOneAndReplace()` is deprecated. Use `returnDocument: 'after'` instead.
+(Use `node --trace-warnings ...` to show where the warning was created)
+Chat error: Error: Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information.
+    at GoogleAuth.getApplicationDefaultAsync (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\google-auth-library\build\src\auth\googleauth.js:285:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async #determineClient (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\google-auth-library\build\src\auth\googleauth.js:786:36)
+    at async GoogleAuth.getClient (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\google-auth-library\build\src\auth\googleauth.js:751:28)
+    at async GoogleAuth.getRequestHeaders (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\google-auth-library\build\src\auth\googleauth.js:815:24)
+    at async NodeAuth.addGoogleAuthHeaders (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@google\genai\src\node\_node_auth.ts:78:25)
+    at async ApiClient.getHeadersInternal (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@google\genai\src\_api_client.ts:900:5)
+    at async ApiClient.includeExtraHttpOptionsToRequestInit (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@google\genai\src\_api_client.ts:620:27)
+    at async ApiClient.request (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@google\genai\src\_api_client.ts:526:19)
+    at async Models.Models.generateContent (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\@google\genai\src\models.ts:132:14)
+    at async handleChat (C:\Users\SAWAN HALLI\Desktop\WEBSITE\server\controllers\chatController.ts:31:22)
+(node:17924) MetadataLookupWarning: received unexpected error = All promises were rejected code = UNKNOWN
+Error: [31m  Failed to scan for dependencies from entries:
+  C:/Users/SAWAN HALLI/Desktop/WEBSITE/index.html
+
+  [39m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/components/Footer.tsx:4:103:
+[37m      4 │ ...m, Linkedin, MapPin, Phone, Mail, ArrowRight } from [32m'lucide-react'[37m;
+        ╵                                                        [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/components/Navbar.tsx:3:24:
+[37m      3 │ import { useAuth } from [32m'../context/AuthContext'[37m;
+        ╵                         [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/components/Navbar.tsx:4:25:
+[37m      4 │ import { useTheme } from [32m'../context/ThemeContext'[37m;
+        ╵                          [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/components/Navbar.tsx:5:90:
+[37m      5 │ ...t, User as UserIcon, Bell, Search, Sun, Moon } from [32m'lucide-react'[37m;
+        ╵                                                        [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/AcademicsPage.tsx:3:96:
+[37m      3 │ ...ghtbulb, Users, Monitor, Award, ChevronRight } from [32m'lucide-react'[37m;
+        ╵                                                        [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/AdmissionsPage.tsx:4:77:
+[37m      4 │ ...ck, FileText, Upload, Calculator, ArrowRight } from [32m'lucide-react'[37m;
+        ╵                                                        [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/AdmissionsPage.tsx:5:34:
+[37m      5 │ ...t ScholarshipCalculator from [32m'../components/ScholarshipCalculator'[37m;
+        ╵                                 [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/CampusLifePage.tsx:3:60:
+[37m      3 │ ... MapPin, Users, Coffee, Activity, Home, Wifi } from [32m'lucide-react'[37m;
+        ╵                                                        [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/ForgotPasswordPage.tsx:4:24:
+[37m      4 │ import { useForm } from [32m'react-hook-form'[37m;
+        ╵                         [32m~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/ForgotPasswordPage.tsx:5:28:
+[37m      5 │ import { zodResolver } from [32m'@hookform/resolvers/zod'[37m;
+        ╵                             [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/ForgotPasswordPage.tsx:6:18:
+[37m      6 │ import { z } from [32m'zod'[37m;
+        ╵                   [32m~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/ForgotPasswordPage.tsx:8:24:
+[37m      8 │ import { Loader2 } from [32m'lucide-react'[37m;
+        ╵                         [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/LandingPage.tsx:4:182:
+[37m      4 │ ...tabase, Globe, Briefcase, Award, ChevronDown } from [32m'lucide-react'[37m;
+        ╵                                                        [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/LoginPage.tsx:4:24:
+[37m      4 │ import { useForm } from [32m'react-hook-form'[37m;
+        ╵                         [32m~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/LoginPage.tsx:5:28:
+[37m      5 │ import { zodResolver } from [32m'@hookform/resolvers/zod'[37m;
+        ╵                             [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/LoginPage.tsx:6:18:
+[37m      6 │ import { z } from [32m'zod'[37m;
+        ╵                   [32m~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/LoginPage.tsx:8:24:
+[37m      8 │ import { useAuth } from [32m'../context/AuthContext'[37m;
+        ╵                         [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/LoginPage.tsx:9:37:
+[37m      9 │ import { Eye, EyeOff, Loader2 } from [32m'lucide-react'[37m;
+        ╵                                      [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/RegisterPage.tsx:4:24:
+[37m      4 │ import { useForm } from [32m'react-hook-form'[37m;
+        ╵                         [32m~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/RegisterPage.tsx:5:28:
+[37m      5 │ import { zodResolver } from [32m'@hookform/resolvers/zod'[37m;
+        ╵                             [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/RegisterPage.tsx:6:18:
+[37m      6 │ import { z } from [32m'zod'[37m;
+        ╵                   [32m~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/RegisterPage.tsx:8:50:
+[37m      8 │ import { Eye, EyeOff, Loader2, AlertCircle } from [32m'lucide-react'[37m;
+        ╵                                                   [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/ResetPasswordPage.tsx:4:24:
+[37m      4 │ import { useForm } from [32m'react-hook-form'[37m;
+        ╵                         [32m~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/ResetPasswordPage.tsx:5:28:
+[37m      5 │ import { zodResolver } from [32m'@hookform/resolvers/zod'[37m;
+        ╵                             [32m~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/ResetPasswordPage.tsx:6:18:
+[37m      6 │ import { z } from [32m'zod'[37m;
+        ╵                   [32m~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/ResetPasswordPage.tsx:8:37:
+[37m      8 │ import { Eye, EyeOff, Loader2 } from [32m'lucide-react'[37m;
+        ╵                                      [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/VerifyEmailPage.tsx:5:37:
+[37m      5 │ import { CheckCircle, Loader2 } from [32m'lucide-react'[37m;
+        ╵                                      [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/admin/AdminDashboard.tsx:3:113:
+[37m      3 │ ...Award, Settings as SettingsIcon, ShieldCheck } from [32m'lucide-react'[37m;
+        ╵                                                        [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/admin/AdminDashboard.tsx:70:24:
+[37m      70 │ import { useAuth } from [32m'../../context/AuthContext'[37m;
+         ╵                         [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/admin/AdminDashboard.tsx:73:28:
+[37m      73 │ import AnimatedCounter from [32m'../../components/AnimatedCounter'[37m;
+         ╵                             [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/admin/AdminDashboard.tsx:77:7:
+[37m      77 │ } from [32m'recharts'[37m;
+         ╵        [32m~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/admin/AdminDashboard.tsx:78:34:
+[37m      78 │ ...minAdvancedFeatures from [32m'../../components/AdminAdvancedFeatures'[37m;
+         ╵                             [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/admin/ApplicationList.tsx:4:50:
+[37m      4 │ import { Search, Filter, Loader2, Download } from [32m'lucide-react'[37m;
+        ╵                                                   [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/admin/ApplicationReview.tsx:4:79:
+[37m      4 │ ...le, XCircle, AlertCircle, FileText, Download } from [32m'lucide-react'[37m;
+        ╵                                                        [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/admin/MeritList.tsx:4:45:
+[37m      4 │ import { Download, Loader2, ArrowLeft } from [32m'lucide-react'[37m;
+        ╵                                              [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/admin/MeritList.tsx:7:18:
+[37m      7 │ import jsPDF from [32m'jspdf'[37m;
+        ╵                   [32m~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/admin/MeritList.tsx:8:7:
+[37m      8 │ import [32m'jspdf-autotable'[37m;
+        ╵        [32m~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/admin/Settings.tsx:4:69:
+[37m      4 │ ... Save, Settings as SettingsIcon, AlertCircle } from [32m'lucide-react'[37m;
+        ╵                                                        [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/admin/Users.tsx:16:7:
+[37m      16 │ } from [32m'lucide-react'[37m;
+         ╵        [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/student/ApplicationForm.tsx:3:24:
+[37m      3 │ import { useForm } from [32m'react-hook-form'[37m;
+        ╵                         [32m~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/student/ApplicationForm.tsx:6:24:
+[37m      6 │ import { useAuth } from [32m'../../context/AuthContext'[37m;
+        ╵                         [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/student/ApplicationForm.tsx:8:77:
+[37m      8 │ ...ft, ChevronRight, Save, Loader2, AlertCircle } from [32m'lucide-react'[37m;
+        ╵                                                        [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/student/DocumentUpload.tsx:4:24:
+[37m      4 │ import { useAuth } from [32m'../../context/AuthContext'[37m;
+        ╵                         [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/student/DocumentUpload.tsx:6:84:
+[37m      6 │ ...2, CheckCircle, AlertCircle, Loader2, Eye, X } from [32m'lucide-react'[37m;
+        ╵                                                        [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/student/StudentDashboard.tsx:3:24:
+[37m      3 │ import { useAuth } from [32m'../../context/AuthContext'[37m;
+        ╵                         [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/student/StudentDashboard.tsx:7:137:
+[37m      7 │ ... User, Megaphone, X, Sparkles, GraduationCap } from [32m'lucide-react'[37m;
+        ╵                                                        [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/student/StudentDashboard.tsx:10:34:
+[37m      10 │ ...holarshipCalculator from [32m'../../components/ScholarshipCalculator'[37m;
+         ╵                             [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/student/StudentDashboard.tsx:12:38:
+[37m      12 │ ...cumentChecklist from [32m'../../components/RequiredDocumentChecklist'[37m;
+         ╵                         [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/student/StudentDashboard.tsx:13:20:
+[37m      13 │ import Chatbot from [32m'../../components/Chatbot'[37m;
+         ╵                     [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/student/StudentDashboard.tsx:14:36:
+[37m      14 │ ...tAdvancedFeatures from [32m'../../components/StudentAdvancedFeatures'[37m;
+         ╵                           [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/student/StudentProfile.tsx:4:24:
+[37m      4 │ import { useAuth } from [32m'../../context/AuthContext'[37m;
+        ╵                         [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mThe server is being restarted or closed. Request is outdated[0m [1m[35m[plugin vite:dep-scan][0m
+
+    src/pages/student/StudentProfile.tsx:5:59:
+[37m      5 │ ...{ User, MapPin, Phone, Camera, Loader2, Save } from [32m'lucide-react'[37m;
+        ╵                                                        [32m~~~~~~~~~~~~~~[0m
+
+
+    at failureErrorWithLog (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\esbuild\lib\main.js:1467:15)
+    at C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\esbuild\lib\main.js:926:25
+    at runOnEndCallbacks (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\esbuild\lib\main.js:1307:45)
+    at buildResponseToResult (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\esbuild\lib\main.js:924:7)
+    at C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\esbuild\lib\main.js:936:9
+    at new Promise (<anonymous>)
+    at requestCallbacks.on-end (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\esbuild\lib\main.js:935:54)
+    at handleRequest (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\esbuild\lib\main.js:628:17)
+    at handleIncomingPacket (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\esbuild\lib\main.js:653:7)
+    at Socket.readFromStdout (C:\Users\SAWAN HALLI\Desktop\WEBSITE\node_modules\esbuild\lib\main.js:581:7)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[31mError [ERR_SERVER_ALREADY_LISTEN]: Listen method has been called more than once without closing.[39m
